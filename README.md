@@ -37,7 +37,7 @@ text
 
 ### 1. Clone the repository
 
-git clone https://github.com/your-username/csv-chatbot.git
+git clone https://github.com/Birajlayek/round_2_task.git
 cd csv-chatbot
 
 text
