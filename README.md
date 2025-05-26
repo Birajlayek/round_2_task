@@ -53,8 +53,6 @@ text
 - Copy `.env.example` to `.env` and add your Hugging Face token:
 HUGGINGFACEHUB_API_TOKEN=your_hf_token_here
 
-text
-- [Get your token here](https://huggingface.co/settings/tokens)
 
 ### 4. Run the Streamlit app
 
